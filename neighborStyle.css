@@ -1,0 +1,30 @@
+h2 {
+        animation-name: head;
+        animation-duration: 0.5s;
+        animation-iteration-count: infinite;
+      
+}
+@keyframes head {
+    from {color: black;}
+    to {color: magenta;}
+}
+
+h3 {
+    animation-name: body;
+    animation-duration: 0.25s;
+    animation-iteration-count: infinite;
+}
+@keyframes body {
+    from {color: rgb(0, 221, 255)}
+    to {color: gold}
+}
+
+h1 {
+    animation-name: neck;
+    animation-duration: 0.5s;
+    animation-iteration-count: infinite;
+}
+@keyframes neck {
+    from {color: rgb(255, 0, 0)}
+    to {color: rgb(34, 255, 0)}
+

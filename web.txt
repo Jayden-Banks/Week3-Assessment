@@ -1,0 +1,11 @@
+How does the internet work?
+The internet requires a bunch of different computers to be physically or wirelessly linked together. Computers have different categories they
+fall under that each help create the internet. Servers, routers, databases, and user computers all play a part. Connections for these computers 
+span across the world. 
+A webpage is accessed by its unique ip address usually converted from its domain name. That ip address is found through the local cache, router, ips, or root. A request is then sent to that ip
+address and the listening computer will send back a response with the data attached with html and other code to display the webpage and have it work.
+
+What happens when you click on a link?
+A link is a url so your computer sends a request using that url for data and once a response is sent back from that ip address it will use the attached code
+to display the new page or content using a combination of html incased with javascript and css for styling. Like the answer up above the computer might have to
+finde the ip address by using the DNS and a combination of other computers to eventually make the initial request.
